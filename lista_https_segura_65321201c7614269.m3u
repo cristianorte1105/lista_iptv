@@ -148,6 +148,8 @@ http://177.93.46.163:8000/play/a00q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/953px-BabyFirst.svg.png" group-title="CARTOONS",BABY FIRST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",MXNuestroCine
+http://181.78.105.146:2000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="ENTRETENIMIENTO",HBO
 http://104.238.222.251:8989/278488_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="ENTRETENIMIENTO",HBO OP2
