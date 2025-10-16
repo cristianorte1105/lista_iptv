@@ -220,47 +220,46 @@ http://177.93.46.163:8000/play/a00q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/953px-BabyFirst.svg.png" group-title="CARTOONS",BABY FIRST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="ENTRETENIMIENTO PREMIUM",HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="ENTRETENIMIENTO",HBO
 http://199.127.63.105:8989/278488_.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="ENTRETENIMIENTO PREMIUM",HBO OP2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="ENTRETENIMIENTO",HBO OP2
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="ENTRETENIMIENTO PREMIUM",HBO2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="ENTRETENIMIENTO",HBO2
 http://104.194.8.54:8989/278492_.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="ENTRETENIMIENTO PREMIUM",HBO2 OP2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="ENTRETENIMIENTO",HBO2 OP2
 http://200.115.98.26:9000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="ENTRETENIMIENTO PREMIUM",HBO PLUS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="ENTRETENIMIENTO",HBO PLUS
 http://199.127.63.105:8989/278489_.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="ENTRETENIMIENTO PREMIUM",HBO PLUS OP2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="ENTRETENIMIENTO",HBO PLUS OP2
 http://104.238.222.251:8989/278489_.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO XTREME
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="ENTRETENIMIENTO",HBO XTREME
 http://199.127.63.105:8989/278507_.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO XTREME OP2
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="ENTRETENIMIENTO",HBO XTREME OP2
 http://104.238.222.251:8989/278507_.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO PREMIUM",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO",HBO FAMILY
 http://user.tvcluboficial.com/live/m/m/63.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO PREMIUM",HBO FAMILY OP2
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO",HBO FAMILY OP2
 http://clubtv.link/05sep/phpcode/lista0.php?c=22&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO MUNDI
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="ENTRETENIMIENTO",HBO MUNDI
 http://199.127.63.105:8989/278500_.m3u8 
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO MUNDI OP2
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="ENTRETENIMIENTO",HBO MUNDI OP2
 http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMF7XDvfyI18jH4u5BKWy8IA/ts
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="ENTRETENIMIENTO PREMIUM",HBO POP
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="ENTRETENIMIENTO",HBO POP
 http://199.127.63.105:8989/278502_.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="ENTRETENIMIENTO PREMIUM",HBO POP OP2
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="ENTRETENIMIENTO",HBO POP OP2
 http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMMjzeLc7sN2qTL0Oi0Y0_ak/ts
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="ENTRETENIMIENTO",HBO SIGNATURE
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62790
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="ENTRETENIMIENTO",UNIVERSAL CRIME
 http://104.238.222.251:8989/278474_.m3u8
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/120254749.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL REALITY
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/120254749.png" group-title="ENTRETENIMIENTO",UNIVERSAL REALITY
 http://199.127.63.105:8989/278478_.m3u8
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL PREMIER
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="ENTRETENIMIENTO",UNIVERSAL PREMIER
 http://199.127.63.105:8989/278476_.m3u8
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL CINEMA
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="ENTRETENIMIENTO",UNIVERSAL CINEMA
 http://199.127.63.105:8989/278472_.m3u8
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/172050409.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL COMEDY
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/172050409.png" group-title="ENTRETENIMIENTO",UNIVERSAL COMEDY
 http://199.127.63.105:8989/278473_.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://200.115.98.26:9000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA OP2
